@@ -25,11 +25,15 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: envelope
+  - title: mail
+    icon: envelope
     url: mailto:mail@conperis.de
   - title: twitter
+    icon: twitter
     url: https://twitter.com/conperis
   - title: github
+    icon: github
     url: https://github.com/conperis
   - title: linkedin
+    icon: linkedin
     url: 
